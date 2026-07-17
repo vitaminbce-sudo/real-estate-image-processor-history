@@ -1,0 +1,4 @@
+pillow
+watchdog
+numpy
+opencv-python
